@@ -17,32 +17,49 @@
 
 </div>
 
-<br/>
+<!-- ░░ DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:003B00,100:0D1117&height=60&section=footer&reversal=false" />
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                    WHOAMI                        -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════ WHOAMI ══ -->
 
 <div align="center">
-<h2><code>⟫ WHOAMI</code></h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:001800&height=50&text=%E2%9F%AB+WHOAMI&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlign=50&fontAlignY=65&stroke=00FF41&strokeWidth=1" width="420" />
 </div>
 
-```bash
-┌──[marvin2245@cyberdeck]─[~]
-└─$ cat /etc/operator.conf
+<br/>
 
-  OPERATOR   ──▶  marvin2245
-  ROLE       ──▶  Security Engineer
-  FOCUS      ──▶  Offensive Security · Reverse Engineering · System Internals
-  CLEARANCE  ──▶  ██████████  [CLASSIFIED]
-  LOCATION   ──▶  [REDACTED]
-  STATUS     ──▶  ▓▓▓▓▓▓▓▓▓░  ONLINE
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="96%">
+<tr>
+<td width="58%" valign="top">
 
-┌──[marvin2245@cyberdeck]─[~]
-└─$ _
+<img align="left" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&text=+marvin2245%40cyberdeck+%5B~%5D%0A%0A++OPERATOR++++%E2%94%80%E2%96%B6++marvin2245%0A++ROLE++++++++%E2%94%80%E2%96%B6++Security+Engineer%0A++FOCUS+++++++%E2%94%80%E2%96%B6++Offensive+Sec+%7C+Rev+Eng%0A++CLEARANCE+++%E2%94%80%E2%96%B6++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+CLASSIFIED%0A++STATUS++++++%E2%94%80%E2%96%B6+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91+ACTIVE&fontSize=11&fontAlign=10&fontAlignY=18&fontColor=00FF41&stroke=00FF41&strokeWidth=1" />
+
+</td>
+<td width="4%"></td>
+<td width="38%" valign="top" align="left">
+
+**`// Expertise`**
+
 ```
+◈  Offensive Security
+◈  Reverse Engineering
+◈  Exploit Development
+◈  Network Analysis
+◈  Malware Forensics
+◈  CTF Competitions
+```
+
+**`// Currently`**
+
+```
+⚡ Hunting vulnerabilities
+⚡ Building custom tooling
+⚡ Grinding HackTheBox
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -50,93 +67,65 @@
 
 </div>
 
-<br/>
+<!-- ░░ DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:003B00,100:0D1117&height=60&section=header&reversal=true" />
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                  TECH STACK                      -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════ TECH STACK ══ -->
 
 <div align="center">
-<h2><code>⟫ TECH_STACK</code></h2>
-</div>
-
-<div align="center">
-
-**// Languages //**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark&perline=4" />
-
-<br/><br/>
-
-**// Security Arsenal //**
-
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117)](https://wireshark.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117)](https://metasploit.com)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0D1117)](https://portswigger.net)
-[![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=0D1117&labelColor=0D1117)](https://nmap.org)
-[![Ghidra](https://img.shields.io/badge/Ghidra-FF0055?style=for-the-badge&logo=nsa&logoColor=white&labelColor=0D1117)](https://ghidra-sre.org)
-[![GDB](https://img.shields.io/badge/GDB_pwndbg-00FF41?style=for-the-badge&logo=gnu&logoColor=0D1117&labelColor=0D1117)](https://github.com/pwndbg/pwndbg)
-
-<br/>
-
-**// Platforms & Environments //**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kali&theme=dark&perline=3" />
-
-<br/><br/>
-
-**// Version Control //**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=3" />
-
-<br/><br/>
-
-**// Dev Environment //**
-
-<img src="https://skillicons.dev/icons?i=vim,vscode,neovim&theme=dark&perline=3" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:001800&height=50&text=%E2%9F%AB+TECH_STACK&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlign=50&fontAlignY=65&stroke=00FF41&strokeWidth=1" width="420" />
 </div>
 
 <br/>
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                AREAS OF OPERATION                -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
-<h2><code>⟫ AREAS_OF_OPERATION</code></h2>
+
+<table border="0" cellspacing="12" cellpadding="8">
+<tr>
+  <td align="center" width="220">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=001800&height=28&text=Languages&fontSize=13&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="180" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark&perline=4" />
+  </td>
+  <td width="30"></td>
+  <td align="center" width="380">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=001800&height=28&text=Security+Arsenal&fontSize=13&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="280" /><br/><br/>
+    <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00FF41&labelColor=001800" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=001800" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white&labelColor=001800" />
+    <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=001800" /><br/>
+    <img src="https://img.shields.io/badge/Ghidra-FF0055?style=flat-square&logo=nsa&logoColor=white&labelColor=001800" />
+    <img src="https://img.shields.io/badge/GDB_pwndbg-00FF41?style=flat-square&logo=gnu&logoColor=0D1117&labelColor=001800" />
+    <img src="https://img.shields.io/badge/YARA-FF0055?style=flat-square&logo=virustotal&logoColor=white&labelColor=001800" />
+    <img src="https://img.shields.io/badge/Volatility-00FF41?style=flat-square&logo=probot&logoColor=0D1117&labelColor=001800" />
+  </td>
+</tr>
+<tr><td colspan="3" height="16"></td></tr>
+<tr>
+  <td align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=001800&height=28&text=Platforms&fontSize=13&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="180" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=linux,docker&theme=dark&perline=4" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=001800" />
+  </td>
+  <td></td>
+  <td align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=001800&height=28&text=Dev+%26+VCS&fontSize=13&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="280" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vim,neovim,vscode&theme=dark&perline=6" />
+  </td>
+</tr>
+</table>
+
 </div>
 
+<!-- ░░ DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:003B00,100:0D1117&height=60&section=footer&reversal=false" />
+
+<!-- ═══════════════════════════════════════════════ STATS ══ -->
+
 <div align="center">
-
-| | Domain | Details |
-|:---:|:---|:---|
-| `01` | **Offensive Security** | Penetration Testing · Red Team Operations |
-| `02` | **Reverse Engineering** | Binary Analysis · Ghidra · GDB / pwndbg |
-| `03` | **Exploit Development** | Memory Corruption · Shellcoding · CVE Research |
-| `04` | **Network Security** | Traffic Analysis · Protocol Fuzzing · Nmap |
-| `05` | **Malware Analysis** | Static & Dynamic Analysis · YARA · Volatility |
-| `06` | **Low-Level Programming** | Systems Code in C / C++ · Kernel Interaction |
-| `07` | **Automation & Tooling** | Python · Bash · Custom Security Tools |
-| `08` | **CTF Competitions** | HackTheBox · TryHackMe · PicoCTF |
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:001800&height=50&text=%E2%9F%AB+STATS.log&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlign=50&fontAlignY=65&stroke=00FF41&strokeWidth=1" width="420" />
 </div>
 
 <br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     STATS                        -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-<h2><code>⟫ STATS.log</code></h2>
-</div>
 
 <div align="center">
 
@@ -149,45 +138,37 @@
 
 <img src="https://streak-stats.demolab.com?user=marvin2245&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=FF0055&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&stroke=00FF41" />
 
-</div>
-
-<br/>
-
-<!-- ░░ TROPHIES ░░ -->
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=marvin2245&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
-<br/>
+<!-- ░░ DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:003B00,100:0D1117&height=60&section=header&reversal=true" />
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--               ACTIVITY GRAPH                     -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════ ACTIVITY GRAPH ══ -->
 
 <div align="center">
-<h2><code>⟫ ACTIVITY.graph</code></h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:001800&height=50&text=%E2%9F%AB+ACTIVITY.graph&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlign=50&fontAlignY=65&stroke=00FF41&strokeWidth=1" width="420" />
 </div>
 
-<div align="center">
+<br/>
 
+<div align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=marvin2245&bg_color=0D1117&color=00FF41&line=00FF41&point=FF0055&area=true&area_color=003B00&border_color=00FF41&hide_border=false&custom_title=COMMIT+ACTIVITY+%2F%2F+MARVIN2245" />
-
 </div>
 
-<br/>
+<!-- ░░ DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:003B00,100:0D1117&height=60&section=footer&reversal=false" />
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                   PLATFORMS                      -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════ PLATFORMS ══ -->
 
 <div align="center">
-<h2><code>⟫ PLATFORMS</code></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:001800&height=50&text=%E2%9F%AB+PLATFORMS&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlign=50&fontAlignY=65&stroke=00FF41&strokeWidth=1" width="420" />
+
+<br/><br/>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0D1117)](https://app.hackthebox.com/profile/marvin2245)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/marvin2245)
@@ -195,22 +176,13 @@
 
 </div>
 
-<br/>
-
----
-
 <!-- ░░ FOOTER ░░ -->
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=140&section=footer&text=%5B+SESSION+CLOSED+%5D&fontSize=20&fontColor=00FF41&animation=fadeIn&fontAlignY=65" />
 
-<sub>
+<div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marvin2245.marvin2245&left_color=0D1117&right_color=00FF41&left_text=Total+Visitors&style=flat-square)
 
 *All activity has been logged. Have a nice day, operator.*
-
-</sub>
 
 </div>
